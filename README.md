@@ -19,6 +19,7 @@ https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format
 2. Extract the data.
 3. Upload the extracted data to Google drive
 4. Link the Google drive with Google colab   #(This step is included in the code)
+5. Copy the path of your data which is now inside your Google colab, and paste it after 'pd.read_csv('paste_here')'
 
 # Feel free to use the code
 
